@@ -6,8 +6,8 @@
 </template>
 
 <script lang="ts" setup>
-import { onMounted } from "@vue/runtime-core";
-import { ElMessage } from "element-plus";
+import { onMounted } from "@vue/runtime-core"
+import { ElMessage } from "element-plus"
 
 onMounted(() => {
   console.log("Home Page")
