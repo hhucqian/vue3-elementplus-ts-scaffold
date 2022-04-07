@@ -12,4 +12,4 @@ parserOptions:
   sourceType: "module"
 rules:
   "no-unused-vars": "error"
-  "semi": ["error", "never"]
+  "semi": ["warn", "never"]

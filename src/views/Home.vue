@@ -15,8 +15,8 @@ onMounted(() => {
 
 function onClick() {
   ElMessage({
-    message: 'This is a messsage!',
-    type: 'success',
+    message: "This is a messsage!",
+    type: "success",
   })
 }
 </script>
